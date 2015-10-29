@@ -1,6 +1,4 @@
- Program Hello;
-        Uses Crt;
-        Begin
-            ClrScr;
-            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
-        End
+ #APCI-1301154533-IF-39-01
+            Teaser DAP
+            Program sederhana menggunakan bahasa pemrograman pascal
+5. Buat sebuah file pada Repository tersebut.
